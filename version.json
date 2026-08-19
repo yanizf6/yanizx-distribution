@@ -1,5 +1,5 @@
 {
   "version": "3.3.0",
-  "download_url": "",
-  "changelog": "Initial release"
+  "download_url": "https://raw.githubusercontent.com/yanizf6/yanizx-distribution/main/version.json",
+  "changelog": "- Mouse side buttons support fixed\n- Auto-updater added\n- Better Roblox detection"
 }
